@@ -1,4 +1,4 @@
-# lay_mau_nhan_dien
+# lay mau nhan dien
 Lấy mẫu nhận diện bằng 2 webcam ngoài. Webcam máy tính dùng để cân chỉnh chân dung lấy mẫu
 Lấy mẫu nhận diện bao gồm sử dụng 2 webcam ngoài để chụp lấy mẫu 2 bên, còn webcam giữa(webcam laptop) dùng để 
 cân chỉnh chân dung cho hợp lý khi lây mẫu được chính xác hơn.
